@@ -213,9 +213,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitor Capelos\\source\\repos\\JobListings\\JobListings\\JobListings.csproj",
-      "projectName": "JobListings",
-      "projectPath": "C:\\Users\\Vitor Capelos\\source\\repos\\JobListings\\JobListings\\JobListings.csproj",
+      "projectUniqueName": "C:\\Users\\Vitor Capelos\\source\\repos\\JobListings\\JobListings\\API.csproj",
+      "projectName": "API",
+      "projectPath": "C:\\Users\\Vitor Capelos\\source\\repos\\JobListings\\JobListings\\API.csproj",
       "packagesPath": "C:\\Users\\Vitor Capelos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Vitor Capelos\\source\\repos\\JobListings\\JobListings\\obj\\",
       "projectStyle": "PackageReference",

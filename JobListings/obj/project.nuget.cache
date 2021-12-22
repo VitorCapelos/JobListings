@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j7Rtt6W4mmP7i1GrE1Sv033CNu2I8gQ1fhiBqrNIjKb1UVqxCwY2jb1AHBtDjtdJQtKPQXA+DeLNHO8Iutx9Zw==",
+  "dgSpecHash": "x4OEWVH6MppQhqOAP5wAJkTXAn6To6rBB4RLkMCKMosWNGCOFjQF4pDDW1Lwo/HpdQyw9cr1pDwHZ+kCS+I/Gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vitor Capelos\\source\\repos\\JobListings\\JobListings\\JobListings.csproj",
+  "projectFilePath": "C:\\Users\\Vitor Capelos\\source\\repos\\JobListings\\JobListings\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vitor Capelos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Vitor Capelos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
